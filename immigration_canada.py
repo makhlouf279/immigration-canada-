@@ -125,6 +125,7 @@ plt.show()
 print(df_can.head())
 
 #suite-------------------------
+#parti num 2
 
 
 
